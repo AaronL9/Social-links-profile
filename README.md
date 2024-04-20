@@ -31,8 +31,8 @@ Social links profile quick view
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/AaronL9/Social-links-profile.git)
+- Live Site URL: [Social-links-profile](https://aaronl9.github.io/Social-links-profile/)
 
 ## My process
 
